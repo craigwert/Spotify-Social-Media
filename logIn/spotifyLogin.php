@@ -6,7 +6,7 @@
 </head>
 
 <body>
-  <form name="LogIn" action="http://elvis.rowan.edu/~datelloa9/web/test/logIn.php" method="post">
+  <form name="LogIn" action="http://elvis.rowan.edu/~datelloa9/web/final/Spotify-Social-Media/logIn/logIn.php" method="post">
     <div>
       <label for="username"><b>Username</b></label>
 	     <input type="text" id="uname" placeholder="Enter Username" name="uname" required>

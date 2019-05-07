@@ -24,11 +24,11 @@
         $logInResult = $connection->query($logInQuery)->num_rows;
 
 
-	echo '<script>document.getElementById("error1").hidden= true;</script>';
-        echo '<script>document.getElementById("error2").hidden= true;</script>';
-	echo '<script>document.getElementById("create").hidden= true;</script>';
+	echo '<script>document.getElementById("nameError").hidden= true;</script>';
+        echo '<script>document.getElementById("idError").hidden= true;</script>';
+	//echo '<script>document.getElementById("create").hidden= true;</script>';
 	 
-	if(logInResult != 0){
+	if($logInResult != 0){
 	    echo 'spotify Login';
 	    //confirm log in using spotify
 	}	
