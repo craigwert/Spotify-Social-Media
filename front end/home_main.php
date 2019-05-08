@@ -14,7 +14,7 @@
 			
 			switch($_GET['page']) {				
 				case 'followers':
-					include 'followers.php';
+					include 'search.php';
 					break;
 				case 'edit':
 					include 'edit.php';
