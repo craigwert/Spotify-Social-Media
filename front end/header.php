@@ -10,7 +10,7 @@
 
 <ul>
   <li><a href="http://elvis.rowan.edu/~wertc1/web/spotify/home_main.php/?page=profile"><span>Profile</span></a></li>
-  <li><a href="http://elvis.rowan.edu/~wertc1/web/spotify/home_main.php/?page=followers"><span>Followers</span></a></li>
+  <li><a href="http://elvis.rowan.edu/~wertc1/web/spotify/home_main.php/?page=search"><span>Search</span></a></li>
   <li><a href="http://elvis.rowan.edu/~wertc1/web/spotify/home_main.php/?page=edit"><span>Edit Profile</span></a></li>
   <li><a href="http://elvis.rowan.edu/~wertc1/web/spotify/home_main.php/?page=logout"><span>Logout</span></a></li>
 </ul>
